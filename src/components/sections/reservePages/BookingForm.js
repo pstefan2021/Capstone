@@ -122,11 +122,11 @@ export default function ReservationForm(props) {
           value={occasion}
           onChange={(e) => setOccasion(e.target.value)}
         >
-          <option>None</option>
-          <option>Birthday</option>
-          <option>Anniversary</option>
-          <option>Engagement</option>
-          <option>Other</option>
+          <option>None </option>
+          <option>Birthday </option>
+          <option>Anniversary </option>
+          <option>Engagement </option>
+          <option>Other </option>
         </select>
       </div>
 
