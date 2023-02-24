@@ -1,11 +1,16 @@
-// Capstone project for Florian Morda - Meta Coursera
-import './App.css';
+//Capstone Meta by Florian Morda!
 
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Routing from "./components/Routing";
+import Footer from "./components/Footer";
 function App() {
   return (
-    <div className="App">
-      Exercise 1
-    </div>
+    <>
+      <Navbar />
+      <Routing />
+      <Footer />
+    </>
   );
 }
 
