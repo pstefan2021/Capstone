@@ -1,5 +1,3 @@
-//Capstone Meta by Florian Morda!
-
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Routing from "./components/Routing";
